@@ -1,46 +1,51 @@
-# Lab 14 Power BI DAX 
-
-## Project Summary
-This Power BI project demonstrates the use of DAX measures, calculated columns, and calculated tables to analyze retail sales data.
+# Retail Sales Analytics Dashboard with DAX
 
 ## Business Problem
-Apex Retail needed a mini-dashboard to summarize sales performance, revenue growth, order tiers, gross profit, and regional sales activity.
+A retail company needed a dashboard that could summarize sales performance, measure revenue growth, and compare order activity across regions and order tiers.
+
+## Objective
+Build an interactive Power BI dashboard using DAX measures, calculated columns, and a calculated table.
 
 ## Tools Used
 - Power BI Desktop
 - DAX
 - Data Modeling
-- Measures
-- Calculated Columns
-- Calculated Tables
 - Data Visualization
 
 ## DAX Skills Demonstrated
 - SUM
 - AVERAGEX
-- DIVIDE
 - CALCULATE
 - DATEADD
+- DIVIDE
 - IF
-- SUMMARIZECOLUMNS
 - COUNTROWS
+- SUMMARIZECOLUMNS
 
-## Visuals Included
-- Total Revenue Card
-- Average Order Value Card
-- Revenue Growth % Card
-- Revenue by Region Bar Chart
-- Order Count by Tier Bar Chart
-- Region Summary Table
-- SaleMonth Slicer
+## Dashboard Features
+- Total Revenue card
+- Average Order Value card
+- Revenue Growth % card
+- Revenue by Region bar chart
+- Order Count by Tier bar chart
+- Region Summary table
+- SaleMonth slicer
+
+## Skills Demonstrated
+- Creating DAX measures
+- Creating calculated columns
+- Creating calculated tables
+- Building interactive dashboards
+- Designing business intelligence reports
 
 ## Files Included
 - Lab14_PowerBI_DAXPractice_GlendaK.pbix
 
-## Key Takeaways
-This project strengthened my understanding of the difference between measures, calculated columns, and calculated tables in Power BI.
-
-
+## Future Enhancements
+- Add drill-through pages.
+- Add tooltips for regional performance.
+- Connect the report to a SQL database.
+- Add additional time intelligence measures.
 ## Dashboard Preview
 
 ![Dashboard Preview](dashboard.png)
