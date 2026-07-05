@@ -1,52 +1,44 @@
-# Excel Sales Dashboard
-
-## Project Summary
-
-This project demonstrates the creation of an interactive sales dashboard in Microsoft Excel using business sales data. The dashboard provides insights into revenue performance, customer activity, and sales trends through PivotTables, PivotCharts, slicers, and calculated metrics.
-
----
+# Retail Sales Performance Dashboard
 
 ## Business Problem
+A retail company needed a clear way to monitor sales performance without manually reviewing raw transaction data.
 
-Business leaders need a quick way to understand sales performance without reviewing thousands of rows of transaction data.
-
-This dashboard summarizes sales information into an easy-to-read report for decision-making.
-
----
+## Objective
+Create an Excel dashboard that summarizes sales performance and helps users quickly identify trends and key metrics.
 
 ## Tools Used
-
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
+- PivotTables
+- PivotCharts
 - Slicers
-- Conditional Formatting
-- Dashboard Design
+- Dashboard Formatting
 
----
+## Process
+1. Reviewed and organized the sales dataset.
+2. Created PivotTables to summarize the data.
+3. Built charts to visualize performance.
+4. Added slicers for interactive filtering.
+5. Designed a clean dashboard layout for reporting.
+
+## Dashboard Features
+- Sales summary visuals
+- Interactive filters
+- Pivot-based reporting
+- Executive-style dashboard layout
 
 ## Skills Demonstrated
-
-✔ Data Cleaning
-
-✔ Data Organization
-
-✔ Dashboard Development
-
-✔ Business Reporting
-
-✔ Data Visualization
-
-✔ Executive Reporting
-
----
+- Data cleaning
+- Excel dashboard design
+- PivotTables
+- Data visualization
+- Business reporting
 
 ## Files Included
-
 - Lab10_SalesDashboard_GlendaK.xlsx
+- dashboard.png
 
----
-
-## Key Takeaways
-
-This project strengthened my ability to organize business data into meaningful visual reports that support business decision-making.
+## Future Enhancements
+- Add more advanced KPIs.
+- Include trend analysis by month.
+- Connect the dashboard to a larger dataset.
+- Rebuild the project in Power BI for comparison.
